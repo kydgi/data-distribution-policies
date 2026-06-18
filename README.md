@@ -9,7 +9,7 @@ Kentucky's Aerial Photography and Elevation Data (KYAPED) Program, also known as
 
 ### License
 
-Data acquired through the KYAPED effort and hosted on the AWS Registry of Open Data @ [registry.opendata.aws/kyfromabove](https://registry.opendata.aws/kyfromabove) is made available under the Creative Commons CC0 1.0 Universal (CC0 1.0) Public Domain Dedication.
+Data acquired through the KYAPED effort and hosted on the AWS Registry of Open Data @ [registry.opendata.aws/kyfromabove](https://registry.opendata.aws/kyfromabove) is made available under the Creative Commons CC0 1.0 Universal [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/), Public Domain Dedication.
 
 ![Creative Commons CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](./images/cc-zero.png)
 
